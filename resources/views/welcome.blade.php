@@ -82,7 +82,7 @@
             Mailing
         </div>
         <div class="links">
-            <a href="{{url('/admin')}}}">用户登录</a>
+            <a href="{{ url('/admin') }}}">Login</a>
             <a href="https://laracasts.com">Laracasts</a>
             <a href="https://laravel-news.com">News</a>
             <a href="https://forge.laravel.com">Forge</a>
